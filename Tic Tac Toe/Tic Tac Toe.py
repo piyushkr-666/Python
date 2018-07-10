@@ -1,5 +1,4 @@
 from tkinter import *
-import random
 import itertools
 import tkinter.messagebox
 count=0
